@@ -9,3 +9,23 @@ El envejecimiento poblacional representa uno de los desafíos demográficos más
 3.  Justificación de la Metodología de Trabajo (El Tablero de Control Ágil)Para la planeación y desarrollo del software, se opta estrictamente por el marco de trabajo Scrum. Esta elección es fundamental y se justifica por los siguientes factores de ingeniería:Uso de Sprints Fijos (Duración de 2 semanas): Debido a la alta incertidumbre técnica vinculada a la calibración de las librerías de visión artificial y a la necesidad de realizar pruebas de usabilidad tempranas con adultos mayores, trabajar en ciclos cortos asegura la entrega de incrementos funcionales de software de manera constante.Asignación de Roles Claros: Se definen los roles esenciales (Product Owner para la gestión de los requisitos de la antología, Scrum Master para mitigar bloqueos técnicos y Equipo de Desarrollo) para asegurar la cohesión del diseño arquitectónico y mantener la trazabilidad de los artefactos de software.
 
 4. Viabilidad Económica y Operativa (El Business Case)La viabilidad financiera y el Retorno de Inversión (ROI) de la plataforma se sustentan en un modelo B2B2C enfocado en clínicas de día, asilos y uso residencial guiado:Reducción de Costos Operativos: La automatización del registro de estadísticas disminuye en un 30% el tiempo que el personal de asistencia o cuidadores dedica a la recopilación manual de datos clínicos del estado motriz del paciente.Optimización de Recursos Clínicos: Al proveer reportes automatizados de teleasistencia, se reduce la necesidad de evaluaciones físicas presenciales rutinarias de bajo nivel, permitiendo amortizar el costo del desarrollo del software en un periodo estimado de 12 meses tras su despliegue inicial.
+
+_______________________________________________
+
+SPRINT 1: Base del Sistema y Reconocimiento de Gestos
+Duración: 16 de junio al 29 de junio (Semanas 1 y 2)
+Planificación: Definición de tareas para el menú inicial y el sensor de la cámara.
+Desarrollo: * Creación de la interfaz de bienvenida y menú principal.
+Integración de visión artificial (OpenCV/MediaPipe) para detectar la mano y registrar los gestos.
+Programación del backend para medir la Tasa de Latencia Cinética (tiempo de reacción).
+Pruebas: Pruebas de Caja Blanca en el algoritmo de reconocimiento de extremidades.
+Entrega: Incremento funcional que abre la cámara y valida si el usuario levanta la mano.
+SPRINT 2: Módulo Espacial, Analítica y Cierre
+Duración: 30 de junio al 15 de julio (Semanas 3 y 4)
+Planificación: Definición de tareas para el módulo de ubicación y la interfaz médica.
+Desarrollo:
+Interfaz del ejercicio espacial (arrastre de vectores y correspondencia cromática).
+Cálculo del Índice de Precisión Vectorial (desviación del movimiento en píxeles).
+Creación del módulo de reportes automatizados para el asistente médico con filtros por fecha.
+Pruebas: Pruebas de Caja Negra para controlar errores en fechas inválidas o falta de datos.
+Entrega: Producto de software completamente integrado, libre de ambigüedades y listo para producción.
