@@ -30,3 +30,16 @@ Cálculo del Índice de Precisión Vectorial (desviación del movimiento en píx
 Creación del módulo de reportes automatizados para el asistente médico con filtros por fecha.
 Pruebas: Pruebas de Caja Negra para controlar errores en fechas inválidas o falta de datos.
 Entrega: Producto de software completamente integrado, libre de ambigüedades y listo para producción.
+
+-----------------------------------------------Frontend (Android Studio)
+El teléfono o tableta Android funcionará exclusivamente como la interfaz visual y el capturador de datos.
+Lenguaje: Kotlin (es el lenguaje moderno, oficial y recomendado por Google para Android Studio) o Java.
+MediaPipe SDK para Android: Google ofrece la versión nativa de MediaPipe para Android Studio. La cámara del celular detectará los landmarks de la mano localmente con excelente rendimiento.  
+Retrofit / Volley: Son las librerías que usarás dentro de Android Studio para conectarte y enviar las métricas hacia las APIs del Backend a través de internet.
+Interface: Pantallas táctiles diseñadas para el adulto mayor donde se procesa el reconocimiento espacial (arrastrar elementos en la pantalla).
+
+Backend (Servidor y APIs)
+En lugar de procesar las matemáticas pesadas en el celular, creas un servidor web independiente que reciba los datos.
+El Framework de la API: Puedes usar FastAPI o Flask (en Python). Este servidor estará escuchando las peticiones que le mande el celular.
+Lógica Analítica: Cuando el adulto mayor termina una sesión en la app de Android, la aplicación empaqueta las variables (milisegundos, píxeles de error, estabilidad) y las envía mediante una petición HTTP POST a tu API. El backend recibe los datos en Python y ejecuta el Análisis de Componentes Principales (ACP) usando NumPy y SciPy en el servidor.  
+Base de Datos Central: El backend almacena todo en una base de datos como PostgreSQL o MySQL.
