@@ -31,7 +31,8 @@ Creación del módulo de reportes automatizados para el asistente médico con fi
 Pruebas: Pruebas de Caja Negra para controlar errores en fechas inválidas o falta de datos.
 Entrega: Producto de software completamente integrado, libre de ambigüedades y listo para producción.
 
------------------------------------------------Frontend (Android Studio)
+-----------------
+Frontend (Android Studio)
 El teléfono o tableta Android funcionará exclusivamente como la interfaz visual y el capturador de datos.
 Lenguaje: Kotlin (es el lenguaje moderno, oficial y recomendado por Google para Android Studio) o Java.
 MediaPipe SDK para Android: Google ofrece la versión nativa de MediaPipe para Android Studio. La cámara del celular detectará los landmarks de la mano localmente con excelente rendimiento.  
