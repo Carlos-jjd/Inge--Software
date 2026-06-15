@@ -44,3 +44,6 @@ En lugar de procesar las matemáticas pesadas en el celular, creas un servidor w
 El Framework de la API: Puedes usar FastAPI o Flask (en Python). Este servidor estará escuchando las peticiones que le mande el celular.
 Lógica Analítica: Cuando el adulto mayor termina una sesión en la app de Android, la aplicación empaqueta las variables (milisegundos, píxeles de error, estabilidad) y las envía mediante una petición HTTP POST a tu API. El backend recibe los datos en Python y ejecuta el Análisis de Componentes Principales (ACP) usando NumPy y SciPy en el servidor.  
 Base de Datos Central: El backend almacena todo en una base de datos como PostgreSQL o MySQL.
+
+Canales de comunicación del equipo:
+Se utilizará discord un servicio de mensajeria que facilita el uso de canales para hacer llamadas de voz lo cual agiliza las reuniones.
