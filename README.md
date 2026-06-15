@@ -1,4 +1,4 @@
-# Inge--Software
+# Motricidad en Adultos mayores 
 Proyecto
 
 1. Definición del Problema y Objetivos
