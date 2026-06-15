@@ -20,6 +20,7 @@ Integración de visión artificial (OpenCV/MediaPipe) para detectar la mano y re
 Programación del backend para medir la Tasa de Latencia Cinética (tiempo de reacción).
 Pruebas: Pruebas de Caja Blanca en el algoritmo de reconocimiento de extremidades.
 Entrega: Incremento funcional que abre la cámara y valida si el usuario levanta la mano.
+
 SPRINT 2: Módulo Espacial, Analítica y Cierre
 Duración: 30 de junio al 15 de julio (Semanas 3 y 4)
 Planificación: Definición de tareas para el módulo de ubicación y la interfaz médica.
