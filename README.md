@@ -13,7 +13,7 @@ De acuerdo a la OMS reporta que hasta un 35% de los adultos de 70 años experime
 _______________________________________________
 
 SPRINT 1: Base del Sistema y Reconocimiento de Gestos
-Duración: 16 de junio al 29 de junio (Semanas 1 y 2)
+Duración: 16 de junio al 29 de junio (Semana 1)
 Planificación: Definición de tareas para el menú inicial y el sensor de la cámara.
 Desarrollo: * Creación de la interfaz de bienvenida y menú principal.
 Integración de visión artificial (OpenCV/MediaPipe) para detectar la mano y registrar los gestos.
@@ -22,7 +22,7 @@ Pruebas: Pruebas de Caja Blanca en el algoritmo de reconocimiento de extremidade
 Entrega: Incremento funcional que abre la cámara y valida si el usuario levanta la mano.
 
 SPRINT 2: Módulo Espacial, Analítica y Cierre
-Duración: 30 de junio al 15 de julio (Semanas 3 y 4)
+Duración: 30 de junio al 15 de julio (Semanas 2 y 3)
 Planificación: Definición de tareas para el módulo de ubicación y la interfaz médica.
 Desarrollo:
 Interfaz del ejercicio espacial (arrastre de vectores y correspondencia cromática).
