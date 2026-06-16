@@ -70,65 +70,12 @@ Se podrán consultar los resultados obtenidos en sesiones anteriores.
 
 # 7. Ejercicios de Estimulación
 
-Ejercicio 1: Memorama
+1: Memorama
+2: Arrastrar figura 
+3: Selecciona el objeto correcto
+4: Secuencia de colores
+5: Rompecabezas sencillo
 
-El usuario deberá encontrar pares de cartas iguales.
-
-Se medirán:
-
-- Tiempo empleado.
-- Número de intentos.
-- Cantidad de parejas encontradas.
-
----
-
-Ejercicio 2: Arrastrar figuras
-
-El usuario deberá arrastrar diferentes figuras hasta su lugar correspondiente.
-
-Se medirán:
-
-- Tiempo de realización.
-- Aciertos.
-- Errores.
-
----
-
-Ejercicio 3: Selecciona el objeto correcto
-
-El sistema mostrará varios objetos y dará una instrucción como:
-
-"Haz clic sobre el círculo azul".
-
-Se medirán:
-
-- Tiempo de respuesta.
-- Precisión.
-- Número de errores.
-
----
-
-Ejercicio 4: Secuencia de colores
-
-La plataforma mostrará una secuencia de colores que el usuario deberá repetir.
-
-Se evaluará:
-
-- Nivel alcanzado.
-- Errores.
-- Tiempo empleado.
-
----
-
-Ejercicio 5: Rompecabezas sencillo
-
-El usuario deberá acomodar piezas para formar una imagen.
-
-Se registrará:
-
-- Tiempo total.
-- Número de movimientos.
-- Porcentaje completado.
 
 ---
 
@@ -241,16 +188,4 @@ Problemas de conexión| Guardado automático de información
 Pérdida de datos| Respaldos periódicos
 Errores en los ejercicios| Pruebas antes de publicar nuevas versiones
 
----
-
-14. Viabilidad
-
-El proyecto es viable debido a que utiliza tecnologías gratuitas y ampliamente conocidas, lo que reduce costos de desarrollo y mantenimiento.
-
-Además, puede implementarse en escuelas, centros de rehabilitación o de forma doméstica sin necesidad de hardware especializado.
-
----
-
-15. Conclusión
-
-La plataforma web permitirá ofrecer ejercicios sencillos y entretenidos para fortalecer las capacidades cognitivas y psicomotrices de los adultos mayores. Gracias al almacenamiento automático de resultados y al historial de progreso, familiares y cuidadores podrán conocer la evolución del usuario de manera rápida y objetiva. Al utilizar únicamente tecnologías web, el proyecto es factible de desarrollar en un periodo aproximado de tres semanas y cumple con los principios de una metodología ágil como Scrum.
+------
