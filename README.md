@@ -1,136 +1,8 @@
 # Motricidad en Adultos mayores 
-Proyecto: Plataforma Web de Estimulación Psicomotriz para Adultos Mayores
 
-# Resumen Ejecutivo
+# Proyecto: Plataforma Web para la Estimulación Cognitiva y Psicomotriz en Adultos Mayores
 
-El proyecto consiste en desarrollar una plataforma web para estimular y evaluar las habilidades psicomotrices de adultos mayores mediante ejercicios interactivos. La página registrará automáticamente el desempeño del usuario y permitirá consultar su progreso de forma sencilla.
-
----
-
-# Definición del Problema
-
-El envejecimiento de la población provoca una disminución en la movilidad y coordinación de muchas personas adultas mayores. Sin embargo, la mayoría de los ejercicios tradicionales no permiten medir objetivamente el avance del usuario ni generar reportes para familiares o cuidadores.
-
-Por ello, se propone una plataforma web que facilite la realización de ejercicios y almacene automáticamente los resultados obtenidos.
-
----
-
-# Objetivo General
-
-Desarrollar una página web que permita evaluar y estimular las capacidades psicomotrices de los adultos mayores mediante ejercicios interactivos y el registro automático de su desempeño.
-
----
-
-# Funcionalidades Principales
-
-1. Reconocimiento de Gestos
-
-Utilizando la cámara web y la librería MediaPipe, el sistema detectará movimientos simples como levantar la mano o señalar.
-
-2. Registro de Resultados
-
-Después de cada ejercicio, la plataforma guardará automáticamente:
-
-- Tiempo de reacción.
-- Número de aciertos.
-- Número de errores.
-- Historial de sesiones.
-
----
-
-# Métricas Principales
-
-- Tiempo de reacción: medido en milisegundos.
-- Porcentaje de aciertos: cantidad de movimientos correctos realizados.
-- Historial de progreso: comparación de resultados entre sesiones.
-
----
-
-# Metodología
-
-Se utilizará la metodología Scrum para organizar el desarrollo en ciclos cortos y entregar avances funcionales cada semana.
-
----
-
-# Planeación del Proyecto (3 semanas)
-
-Semana 1
-
-- Diseño de la página principal.
-- Creación del menú de inicio.
-- Integración de la cámara web.
-- Implementación del reconocimiento básico de la mano con MediaPipe.
-
-Entrega: Página funcionando con detección de la mano.
-
----
-
-Semana 2
-
-- Desarrollo del ejercicio de levantar la mano.
-- Medición del tiempo de reacción.
-- Almacenamiento de resultados en la base de datos.
-
-Entrega: Sistema capaz de registrar una sesión y guardar resultados.
-
----
-
-Semana 3
-
-- Desarrollo del panel de historial.
-- Visualización de estadísticas básicas.
-- Corrección de errores y pruebas finales.
-
-Entrega: Plataforma completamente funcional.
-
----
-
-# Tecnologías Utilizadas
-
-Frontend
-
-- HTML
-- CSS
-- JavaScript
-
-Reconocimiento de Gestos
-
-- MediaPipe
-- OpenCV.js
-
-Backend
-
-- Python con Flask
-
-Base de Datos
-
-- MySQL
-
----
-
-# Beneficios
-
-- Permite evaluar objetivamente el desempeño del usuario.
-- Automatiza el almacenamiento de resultados.
-- Facilita el seguimiento del progreso.
-- Puede utilizarse desde cualquier computadora con acceso a internet y cámara web.
-
----
-
-# Riesgos
-
-Riesgo| Solución
-Mala iluminación| Solicitar mejor iluminación al usuario
-Cámara no disponible| Mostrar mensaje de error
-Fallos de conexión| Guardar datos localmente y sincronizar después
-Errores del reconocimiento| Ajustar la calibración y realizar pruebas
-
-La plataforma web ofrece una solución sencilla y accesible para apoyar la estimulación psicomotriz de adultos mayores. Al utilizar tecnologías de reconocimiento de gestos y almacenamiento automático de resultados, permite realizar un seguimiento claro del desempeño del usuario sin necesidad de equipos especializados, siendo un proyecto viable para desarrollarse en un periodo aproximado de tres semanas.
-_____
-
-Proyecto: Plataforma Web para la Estimulación Cognitiva y Psicomotriz en Adultos Mayores
-
-1. Resumen Ejecutivo
+# 1. Resumen Ejecutivo
 
 Este proyecto propone el desarrollo de una plataforma web diseñada para ayudar a fortalecer las habilidades cognitivas y psicomotrices de los adultos mayores mediante ejercicios interactivos. Además de estimular la memoria, la atención y la coordinación, el sistema almacenará los resultados de cada sesión para que familiares o cuidadores puedan consultar el progreso del usuario.
 
@@ -138,7 +10,7 @@ La plataforma está pensada para desarrollarse en un periodo de tres semanas, ut
 
 ---
 
-2. Definición del Problema
+# 2. Definición del Problema
 
 Con el paso de los años, muchas personas adultas mayores presentan disminución en la memoria, atención, coordinación y velocidad de reacción.
 
@@ -148,13 +20,13 @@ Por ello se propone una página web que ofrezca ejercicios interactivos y almace
 
 ---
 
-3. Objetivo General
+# 3. Objetivo General
 
 Desarrollar una plataforma web que permita estimular y evaluar habilidades cognitivas y psicomotrices mediante ejercicios interactivos, registrando automáticamente los resultados obtenidos.
 
 ---
 
-4. Objetivos Específicos
+# 4. Objetivos Específicos
 
 - Diseñar una interfaz sencilla y accesible para adultos mayores.
 - Implementar ejercicios que fortalezcan memoria, coordinación y atención.
@@ -163,7 +35,7 @@ Desarrollar una plataforma web que permita estimular y evaluar habilidades cogni
 
 ---
 
-5. Usuarios y Clientes
+# 5. Usuarios y Clientes
 
 Usuarios
 
@@ -180,7 +52,7 @@ Clientes
 
 ---
 
-6. Funcionalidades Principales
+# 6. Funcionalidades Principales
 
 Registro de usuarios
 
@@ -196,7 +68,7 @@ Se podrán consultar los resultados obtenidos en sesiones anteriores.
 
 ---
 
-7. Ejercicios de Estimulación
+# 7. Ejercicios de Estimulación
 
 Ejercicio 1: Memorama
 
@@ -260,7 +132,7 @@ Se registrará:
 
 ---
 
-8. Indicadores (KPIs)
+# 8. Indicadores (KPIs)
 
 La plataforma registrará automáticamente:
 
@@ -272,7 +144,7 @@ La plataforma registrará automáticamente:
 
 ---
 
-9. Metodología Scrum
+# 9. Metodología Scrum
 
 Para el desarrollo se utilizará Scrum, permitiendo organizar el trabajo en ciclos cortos y realizar entregas funcionales.
 
@@ -292,7 +164,7 @@ Diseña, programa y prueba la plataforma.
 
 ---
 
-10. Planeación (3 semanas)
+# 10. Planeación (3 semanas)
 
 Sprint 1 (Semana 1)
 
@@ -333,7 +205,7 @@ Sistema completamente funcional.
 
 ---
 
-11. Tecnologías
+# 11. Tecnologías
 
 Frontend
 
@@ -351,7 +223,7 @@ Base de Datos
 
 ---
 
-12. Beneficios
+# 12. Beneficios
 
 - Mejora la memoria y la atención.
 - Favorece la coordinación motriz.
@@ -361,7 +233,7 @@ Base de Datos
 
 ---
 
-13. Riesgos
+# 13. Riesgos
 
 Riesgo| Mitigación
 Usuarios con poca experiencia tecnológica| Diseño simple y botones grandes
