@@ -7,7 +7,7 @@
 - **RF-AM-03:** El sistema deberá registrar automáticamente el tiempo, aciertos y errores obtenidos en cada ejercicio.
 - **RF-AM-04:** El sistema deberá mostrar los resultados al finalizar cada actividad.
 - **RF-AM-05:** El sistema deberá permitir consultar el historial de ejercicios realizados.
-- **RF-AM-06:** Los reportes tendrán que generarse respecto a cada usuario con una frecuencia semanal mensual y anual con su respectiva grafica de barras //requerimiento adicional de la actividad
+- **RF-AM-06:** Los reportes tendrán que generarse respecto a cada usuario con una frecuencia semanal mensual y anual con su respectiva grafica de barras.
 
 ## Requerimientos de Experiencia de Usuario (Pathos)
 
@@ -16,7 +16,7 @@
 - **RU-AM-03:** El sistema deberá proporcionar retroalimentación inmediata cuando una respuesta sea correcta o incorrecta.
 - **RU-AM-04:** La plataforma deberá minimizar la cantidad de clics necesarios para acceder a los ejercicios.
 - **RU-AM-05:** Los colores y textos deberán presentar alto contraste para facilitar la lectura.
-- **RU-AM-06:** Debe implementarse un sistema de logros o cualquier estrategia para motivar a los adultos mayores. //requerimiento adicional de la actividad
+- **RU-AM-06:** Debe implementarse un sistema de logros o cualquier estrategia para motivar a los adultos mayores.
 
 ## Requerimientos de Seguridad y Confianza (Ethos)
 
