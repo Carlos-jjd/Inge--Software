@@ -40,8 +40,7 @@ Desarrollar una plataforma web que permita estimular y evaluar habilidades cogni
 Usuarios
 
 - Adultos mayores.
-- Cuidadores.
-- Familiares.
+- Administrador
 
 Clientes
 
@@ -70,11 +69,8 @@ Se podrán consultar los resultados obtenidos en sesiones anteriores.
 
 # 7. Ejercicios de Estimulación
 
-1: Memorama
-2: Arrastrar figura 
-3: Selecciona el objeto correcto
-4: Secuencia de colores
-5: Rompecabezas sencillo
+1: Memorama.
+2: Secuencia de colores.
 
 
 ---
@@ -86,7 +82,6 @@ La plataforma registrará automáticamente:
 - Tiempo promedio por ejercicio.
 - Número de aciertos.
 - Número de errores.
-- Porcentaje de avance.
 - Historial de sesiones realizadas.
 
 ---
@@ -129,7 +124,7 @@ Sistema con acceso y navegación funcionando.
 Sprint 2 (Semana 2)
 
 - Desarrollo del memorama.
-- Desarrollo del ejercicio de arrastrar figuras.
+- Desarrollo del ejercicio de secuencia de colores
 - Registro automático de resultados.
 
 Entrega
@@ -140,8 +135,6 @@ Primeros ejercicios completamente funcionales.
 
 Sprint 3 (Semana 3)
 
-- Desarrollo de secuencia de colores.
-- Desarrollo del rompecabezas.
 - Historial de resultados.
 - Corrección de errores.
 - Pruebas finales.
