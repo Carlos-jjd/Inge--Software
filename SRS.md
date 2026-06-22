@@ -1,4 +1,4 @@
-# Persona 1: Adulto Mayor
+# Persona 1: Adulto Mayor.
 
 ## Requerimientos Funcionales (Logos)
 
