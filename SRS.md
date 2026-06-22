@@ -81,6 +81,8 @@ Juegos adicionales fuera de los ejercicios de estimulación cognitiva y psicomot
 
 Personalización avanzada de temas o apariencia.
 
+No utilizara servicios de camara por lo tanto tampoco realidad virtual.
+
 Integración con comandos de voz.
 
 Funciones de entretenimiento o gamificación no relacionadas con la terapia.
