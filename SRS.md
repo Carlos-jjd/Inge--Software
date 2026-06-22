@@ -3,7 +3,7 @@
 ## Requerimientos Funcionales (Logos)
 
 - **RF-AM-01:** El sistema deberá permitir al adulto mayor iniciar sesión con su cuenta personal.
-- **RF-AM-02:** El sistema deberá permitir realizar ejercicios de estimulación cognitiva y psicomotriz como memorama, secuencia de colores, rompecabezas y arrastrar figuras.
+- **RF-AM-02:** El sistema deberá permitir realizar ejercicios de estimulación cognitiva y psicomotriz como memorama, secuencia de colores.
 - **RF-AM-03:** El sistema deberá registrar automáticamente el tiempo, aciertos y errores obtenidos en cada ejercicio.
 - **RF-AM-04:** El sistema deberá mostrar los resultados al finalizar cada actividad.
 - **RF-AM-05:** El sistema deberá permitir consultar el historial de ejercicios realizados.
