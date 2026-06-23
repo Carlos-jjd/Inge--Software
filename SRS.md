@@ -26,3 +26,18 @@
 - **RS-AM-03:** El sistema deberá informar al usuario sobre el almacenamiento de sus datos.
 - **RS-AM-04:** El sistema no tendrá publicidad.
 - **RS-AM-05:** La plataforma deberá realizar respaldos periódicos para evitar la pérdida de información.
+
+POR DETERMINAR LOS REQEURIMIENTOS DEL ACTOR ADMINISTRADOR
+
+# Persona 2 : Administrador
+
+## Requerimientos funcionales (Logos)
+
+- **RF-ADMIN-01:** El sistema deberá permitir al administrador registrarse.
+- **RF-ADMIN-02:** El sistema deberá permitir un inicio de sesión.
+- **RF-ADMIN-03:** El sistema le dará la opcion de registrar a los adultos mayores.
+- **RF-ADMIN-04:**
+
+## Requerimientos de Experiencia de Usuario (Pathos) 
+
+## Requerimientos de Seguridad y Confianza (Ethos)
