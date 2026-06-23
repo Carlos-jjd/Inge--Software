@@ -36,8 +36,14 @@ POR DETERMINAR LOS REQEURIMIENTOS DEL ACTOR ADMINISTRADOR
 - **RF-ADMIN-01:** El sistema deberá permitir al administrador registrarse.
 - **RF-ADMIN-02:** El sistema deberá permitir un inicio de sesión.
 - **RF-ADMIN-03:** El sistema le dará la opcion de registrar a los adultos mayores.
-- **RF-ADMIN-04:**
 
 ## Requerimientos de Experiencia de Usuario (Pathos) 
 
+- **RU-ADMIN-01:** Se podra ver una grafica de avance de los adultos mayores.
+- **RU-ADMIN-02:** 
+- **RU-ADMIN-03:**
+
 ## Requerimientos de Seguridad y Confianza (Ethos)
+
+- **RS-ADMIN-01:**
+- **RS-ADMIN-02:**
