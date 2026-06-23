@@ -17,12 +17,12 @@
 - **RU-AM-03:** El sistema deberá proporcionar retroalimentación inmediata cuando una respuesta sea correcta o incorrecta.
 - **RU-AM-04:** La plataforma deberá minimizar la cantidad de clics necesarios para acceder a los ejercicios.
 - **RU-AM-05:** Los colores y textos deberán presentar alto contraste para facilitar la lectura.
-- **RU-AM-06:** Debe implementarse un sistema de logros o cualquier estrategia para motivar a los adultos mayores.
+- **RU-AM-06:** Debe implementarse un sistema de logros para motivar a los adultos mayores.
 
 ## Requerimientos de Seguridad y Confianza (Ethos)
 
 - **RS-AM-01:** El sistema deberá proteger los datos personales y resultados de cada usuario.
 - **RS-AM-02:** La información del usuario solo podrá ser visualizada por personas autorizadas.
 - **RS-AM-03:** El sistema deberá informar al usuario sobre el almacenamiento de sus datos.
-- **RS-AM-04:** El sistema no tendrá publicidad ni información engañosa.
+- **RS-AM-04:** El sistema no tendrá publicidad.
 - **RS-AM-05:** La plataforma deberá realizar respaldos periódicos para evitar la pérdida de información.
