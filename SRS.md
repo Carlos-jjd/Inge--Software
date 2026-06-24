@@ -40,10 +40,9 @@ POR DETERMINAR LOS REQEURIMIENTOS DEL ACTOR ADMINISTRADOR
 ## Requerimientos de Experiencia de Usuario (Pathos) 
 
 - **RU-ADMIN-01:** Se podra ver una grafica de avance de los adultos mayores.
-- **RU-ADMIN-02:** 
-- **RU-ADMIN-03:**
+- **RU-ADMIN-02:** El sistema proyectara estadisticas individuales de cada adulto mayor
 
 ## Requerimientos de Seguridad y Confianza (Ethos)
 
-- **RS-ADMIN-01:**
-- **RS-ADMIN-02:**
+- **RS-ADMIN-01:** El sistema protegera los datos personales del administrador
+- **RS-ADMIN-02:** La información solo podra ser visualizada por el administrador
